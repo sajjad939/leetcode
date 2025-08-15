@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/sajjad939/leetcode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/sajjad939/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sajjad939/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sajjad939/leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sajjad939/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
