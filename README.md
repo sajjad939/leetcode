@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/sajjad939/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [1448-maximum-69-number](https://github.com/sajjad939/leetcode/tree/master/1448-maximum-69-number) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sajjad939/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sajjad939/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sajjad939/leetcode/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/sajjad939/leetcode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sajjad939/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Recursion
 |  |
