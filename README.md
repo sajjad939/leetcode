@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sajjad939/leetcode/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sajjad939/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/sajjad939/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0624-maximum-distance-in-arrays](https://github.com/sajjad939/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sajjad939/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/sajjad939/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sajjad939/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sajjad939/leetcode/tree/master/0342-power-of-four) |
