@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/sajjad939/leetcode/tree/master/0679-24-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sajjad939/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/sajjad939/leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sajjad939/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Binary Search
 |  |
 | ------- |
