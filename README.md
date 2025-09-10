@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/sajjad939/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0679-24-game](https://github.com/sajjad939/leetcode/tree/master/0679-24-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sajjad939/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/sajjad939/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sajjad939/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/sajjad939/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sajjad939/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/sajjad939/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [1448-maximum-69-number](https://github.com/sajjad939/leetcode/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/sajjad939/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## String
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sajjad939/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Hash Table
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/sajjad939/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 <!---LeetCode Topics End-->
