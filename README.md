@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sajjad939/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0624-maximum-distance-in-arrays](https://github.com/sajjad939/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0679-24-game](https://github.com/sajjad939/leetcode/tree/master/0679-24-game) |
+| [1006-vowel-spellchecker](https://github.com/sajjad939/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sajjad939/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sajjad939/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sajjad939/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/sajjad939/leetcode/tree/master/1006-vowel-spellchecker) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sajjad939/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/sajjad939/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Math
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/sajjad939/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sajjad939/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Game Theory
 |  |
