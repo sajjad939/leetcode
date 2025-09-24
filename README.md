@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/sajjad939/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/sajjad939/leetcode/tree/master/1006-vowel-spellchecker) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sajjad939/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/sajjad939/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sajjad939/leetcode/tree/master/0066-plus-one) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sajjad939/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/sajjad939/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sajjad939/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sajjad939/leetcode/tree/master/0342-power-of-four) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/sajjad939/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/sajjad939/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sajjad939/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/sajjad939/leetcode/tree/master/2429-design-a-food-rating-system) |
