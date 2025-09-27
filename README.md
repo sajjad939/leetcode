@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sajjad939/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0624-maximum-distance-in-arrays](https://github.com/sajjad939/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0679-24-game](https://github.com/sajjad939/leetcode/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/sajjad939/leetcode/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/sajjad939/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sajjad939/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sajjad939/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sajjad939/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sajjad939/leetcode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/sajjad939/leetcode/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/sajjad939/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/sajjad939/leetcode/tree/master/0867-new-21-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sajjad939/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sajjad939/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/sajjad939/leetcode/tree/master/2429-design-a-food-rating-system) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/sajjad939/leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
